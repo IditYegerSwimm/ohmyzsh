@@ -5,7 +5,9 @@ file_version: 1.1.2
 app_version: 1.11.0
 ---
 
-/
+`📄 plugins/archlinux`
+
+`📄 log`
 
 <br/>
 
